@@ -1,4 +1,4 @@
-# Innovien Q3 2026 Quarterly Planning Dashboard
+# Innovien Q4 2026 Quarterly Planning Dashboard
 
 Self-contained interactive dashboard (single `index.html`, no build step, no server).
 All data is embedded in the file. **Treat this repository and deployment as confidential.**
